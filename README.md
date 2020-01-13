@@ -9,6 +9,7 @@ Python for its scope doesn’t depend on the braces ( { } ), instead it uses ind
 
 ### basics
 [if-else.py](https://github.com/flkt-crnpio/python-basics/blob/master/if-else.py)
+[print.py](https://github.com/flkt-crnpio/python-basics/blob/master/print.py)
 
 
 ### numpy
