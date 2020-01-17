@@ -22,3 +22,4 @@ Python for its scope doesn’t depend on the braces ( { } ), instead it uses ind
 
 ### matplotlib
 [plot.py](https://github.com/flkt-crnpio/python-basics/blob/master/plot.py)
+[scatter.py](https://github.com/flkt-crnpio/python-basics/blob/master/scatter.py)
