@@ -8,3 +8,12 @@ import matplotlib.pyplot as plt
 # Do not specify the number of bins; Python will set the number of bins to 10 by default for you.
 plt.hist(life_exp)
 plt.show()
+plt.clf()
+
+plt.hist(life_exp, 5)
+plt.show()
+plt.clf()
+
+plt.hist(life_exp, 20)
+plt.show()
+plt.clf()
