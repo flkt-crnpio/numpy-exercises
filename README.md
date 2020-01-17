@@ -6,6 +6,9 @@ that allows Object-Oriented and Procedural paradigms.
 Python for its scope doesn’t depend on the braces ( { } ), instead it uses indentation for its scope.
 
 
+### requirements
+`pip install -r requirements.txt`
+
 
 ### basics
 [if-else.py](https://github.com/flkt-crnpio/python-basics/blob/master/if-else.py)
@@ -15,3 +18,7 @@ Python for its scope doesn’t depend on the braces ( { } ), instead it uses ind
 ### numpy
 [array.py](https://github.com/flkt-crnpio/python-basics/blob/master/array.py)
 [shape.py](https://github.com/flkt-crnpio/python-basics/blob/master/shape.py)
+
+
+### matplotlib
+[plot.py](https://github.com/flkt-crnpio/python-basics/blob/master/plot.py)
