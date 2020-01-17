@@ -14,5 +14,11 @@ import matplotlib.pyplot as plt
 # Make a line plot: year on the x-axis, pop on the y-axis
 plt.plot(year,pop)
 
+# Customizations
+plt.xlabel('Year')
+plt.ylabel('Population')
+plt.title('World Population Projections')
+plt.yticks([0,2,4,6,8,10], ['0','2B','4B','6B','8B','10B'])
+
 # Display the plot with plt.show()
 plt.show()
