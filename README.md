@@ -12,7 +12,7 @@ Download this project and run this line inside the folder on your terminal for i
 * [if-else.py](https://github.com/flkt-crnpio/python-basics/blob/master/if-else.py)
 * [print.py](https://github.com/flkt-crnpio/python-basics/blob/master/print.py)
 * [division.py](https://github.com/flkt-crnpio/python-basics/blob/master/division.py)
-
+* [arithmetic.py](https://github.com/flkt-crnpio/python-basics/blob/master/arithmetic.py)
 
 ### numpy
 * [array.py](https://github.com/flkt-crnpio/python-basics/blob/master/array.py)
