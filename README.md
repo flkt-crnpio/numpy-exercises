@@ -1,13 +1,11 @@
 # python
-Python is a widely used general-purpose, high-level programming language
-that allows Object-Oriented and Procedural paradigms.
+Python is a widely used general-purpose, high-level programming language that allows Object-Oriented and Procedural paradigms.
 
 
-Python for its scope doesn’t depend on the braces ( { } ), instead it uses indentation for its scope.
+## About
+This project is about learning python basics with exercises.
 
-
-### requirements
-`pip install -r requirements.txt`
+Download this project and run this line inside the folder on your terminal for install the required modules `pip install -r requirements.txt` then type `python3 name_of_the_file_you_want_to_run.py` and enter to run some exercise.
 
 
 ### basics
