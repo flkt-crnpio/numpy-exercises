@@ -11,16 +11,16 @@ Python for its scope doesn’t depend on the braces ( { } ), instead it uses ind
 
 
 ### basics
-[if-else.py](https://github.com/flkt-crnpio/python-basics/blob/master/if-else.py)
-[print.py](https://github.com/flkt-crnpio/python-basics/blob/master/print.py)
+* [if-else.py](https://github.com/flkt-crnpio/python-basics/blob/master/if-else.py)
+* [print.py](https://github.com/flkt-crnpio/python-basics/blob/master/print.py)
 
 
 ### numpy
-[array.py](https://github.com/flkt-crnpio/python-basics/blob/master/array.py)
-[shape.py](https://github.com/flkt-crnpio/python-basics/blob/master/shape.py)
+* [array.py](https://github.com/flkt-crnpio/python-basics/blob/master/array.py)
+* [shape.py](https://github.com/flkt-crnpio/python-basics/blob/master/shape.py)
 
 
 ### matplotlib
-[plot.py](https://github.com/flkt-crnpio/python-basics/blob/master/plot.py)
-[scatter.py](https://github.com/flkt-crnpio/python-basics/blob/master/scatter.py)
-[histogram.py](https://github.com/flkt-crnpio/python-basics/blob/master/histogram.py)
+* [plot.py](https://github.com/flkt-crnpio/python-basics/blob/master/plot.py)
+* [scatter.py](https://github.com/flkt-crnpio/python-basics/blob/master/scatter.py)
+* [histogram.py](https://github.com/flkt-crnpio/python-basics/blob/master/histogram.py)
