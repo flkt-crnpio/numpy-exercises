@@ -14,6 +14,7 @@ Download this project and run this line inside the folder on your terminal for i
 * [division.py](https://github.com/flkt-crnpio/python-basics/blob/master/division.py)
 * [arithmetic.py](https://github.com/flkt-crnpio/python-basics/blob/master/arithmetic.py)
 * [loop.py](https://github.com/flkt-crnpio/python-basics/blob/master/loop.py)
+* [dictionary.py](https://github.com/flkt-crnpio/python-basics/blob/master/dictionary.py)
 
 ### numpy
 * [array.py](https://github.com/flkt-crnpio/python-basics/blob/master/array.py)
