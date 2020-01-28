@@ -25,3 +25,6 @@ Download this project and run this line inside the folder on your terminal for i
 * [plot.py](https://github.com/flkt-crnpio/python-basics/blob/master/plot.py)
 * [scatter.py](https://github.com/flkt-crnpio/python-basics/blob/master/scatter.py)
 * [histogram.py](https://github.com/flkt-crnpio/python-basics/blob/master/histogram.py)
+
+### pandas
+* [pandasdataframes.py](https://github.com/flkt-crnpio/python-basics/blob/master/pandasdataframes.py)
